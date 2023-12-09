@@ -18,4 +18,4 @@
 |트랜잭션|01. 트랜잭션(transaction) 개념잡기|[click](https://youtu.be/sUq7K2-1k3E)|없음|[link](https://github.com/kafa46/database/blob/master/02_transaction/01_what_is_transaction.pdf)|
 |트랜잭션|02. 트랜잭션 속성(ACID) 이해하기|[click](https://youtu.be/nKUdM-4sEdw)|없음|[link](https://github.com/kafa46/database/blob/master/02_transaction/01_what_is_transaction.pdf)|
 |트랜잭션|03. 트랜잭션 연산(commit, rollback) 이해하기|[click](https://youtu.be/lANy2qjWLu4)|없음|[link](https://github.com/kafa46/database/blob/master/02_transaction/01_what_is_transaction.pdf)|
-|클라우드<br>연동|아마존 클라우드(EC2)에 설치된 MySQL과 HeidiSQL 연동|[click](https://youtu.be/eC5Hj5TQhhI)|없음|[link](https://github.com/kafa46/database/blob/master/03_cloud_computing_and_database/03_cloud_computing_and_database.pdf)|
+|클라우드<br>연동|아마존 클라우드(EC2)에 설치된 MySQL과 HeidiSQL 연동|[click](https://youtu.be/eC5Hj5TQhhI)|없음|[link](https://github.com/kafa46/database/blob/master/03_cloud_computing_and_database/01_cloud_computing_and_database.pdf)|
